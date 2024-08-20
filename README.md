@@ -1,5 +1,5 @@
 # ハムスター認識🐹
-[URL](https://hamster-percentage-recognition.streamlit.app/)</br>
+[はむ認識アプリ](https://hamster-percentage-recognition.streamlit.app/)</br>
 YOLOにハムスター認識がなかったため、作成しました。
 どのくらいハムスターか表示してくれます。
 
