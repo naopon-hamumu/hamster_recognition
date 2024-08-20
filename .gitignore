@@ -1,0 +1,4 @@
+.DS_Store
+hamster_detection/
+venv/
+yolov8n.pt
